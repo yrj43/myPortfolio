@@ -14,11 +14,11 @@ const Main = () => {
                 <h2 className='flex sm:text-3xl text-2xl pt-4 text-gray-800'>I'm  
                 <TypeAnimation
                     sequence={[
-                    'Developer', // Types 'One'
+                    'Heloo', // Types 'One'
                     2000, // Waits 1s
-                    'Designer', // Deletes 'One' and types 'Two'
+                    'Good day', // Deletes 'One' and types 'Two'
                     2000, // Waits 2s
-                    'Tech enthusiast', // Types 'Three' without deleting 'Two'
+                    '😊', // Types 'Three' without deleting 'Two'
                     2000,
                 ]}
                 wrapper="span"
