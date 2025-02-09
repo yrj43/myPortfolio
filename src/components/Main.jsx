@@ -16,9 +16,9 @@ const Main = () => {
                     sequence={[
                     'Heloo', // Types 'One'
                     2000, // Waits 1s
-                    'Good day', // Deletes 'One' and types 'Two'
+                    'hi', // Deletes 'One' and types 'Two'
                     2000, // Waits 2s
-                    '😊', // Types 'Three' without deleting 'Two'
+                    '😁', // Types 'Three' without deleting 'Two'
                     2000,
                 ]}
                 wrapper="span"
