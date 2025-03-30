@@ -31,7 +31,7 @@ A modern, responsive portfolio website built with React and Tailwind CSS. This p
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/myPortfolio.git
+git clone https://github.com/yrj43/myPortfolio.git
 ```
 
 2. Navigate to the project directory
@@ -68,7 +68,7 @@ npm run deploy
 myPortfolio/
 ├── public/
 │   └── resume/
-│       └── resume.pdf
+│       └── Resume.pdf
 ├── src/
 │   ├── components/
 │   │   ├── Main.jsx
@@ -96,6 +96,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Yuvaraj - [@yrj43](https://github.com/yrj43) - syuvaraj879@gmail.com
 
-Project Link: [https://github.com/yourusername/myPortfolio](https://github.com/yourusername/myPortfolio) 
+Project Link: [https://yrj43.github.io/myPortfolio/](https://yrj43.github.io/myPortfolio/) 
