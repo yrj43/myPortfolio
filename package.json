@@ -1,14 +1,28 @@
 {
+<<<<<<< HEAD
+=======
+  "homepage": "https://yrj43/github.io/myPortfolio",
+>>>>>>> 3325861658993e16468360c4566a1d4bc12f5c8b
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+<<<<<<< HEAD
+=======
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+>>>>>>> 3325861658993e16468360c4566a1d4bc12f5c8b
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "gh-pages": "^6.1.1",
+    "git": "^0.1.5",
+>>>>>>> 3325861658993e16468360c4566a1d4bc12f5c8b
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.8.0",
