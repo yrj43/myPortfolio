@@ -14,19 +14,11 @@ const Main = () => {
                 <h2 className='flex sm:text-3xl text-2xl pt-4 text-gray-800'>I'm  
                 <TypeAnimation
                     sequence={[
-<<<<<<< HEAD
-                    'Developer', // Types 'One'
-                    2000, // Waits 1s
-                    'Designer', // Deletes 'One' and types 'Two'
-                    2000, // Waits 2s
-                    'Tech enthusiast', // Types 'Three' without deleting 'Two'
-=======
-                    'Heloo', // Types 'One'
-                    2000, // Waits 1s
-                    'hi', // Deletes 'One' and types 'Two'
-                    2000, // Waits 2s
-                    '😁', // Types 'Three' without deleting 'Two'
->>>>>>> 3325861658993e16468360c4566a1d4bc12f5c8b
+                    'Developer',
+                    2000,
+                    'Designer',
+                    2000,
+                    'Tech enthusiast',
                     2000,
                 ]}
                 wrapper="span"
@@ -47,8 +39,4 @@ const Main = () => {
     )
 }
 
-<<<<<<< HEAD
 export default Main
-=======
-export default Main
->>>>>>> 3325861658993e16468360c4566a1d4bc12f5c8b
