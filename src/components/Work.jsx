@@ -28,7 +28,7 @@ const Work = () => {
             details={item.details}
             />
         ))}
-    </div>
+        </div>
   )
 }
 
