@@ -10,7 +10,7 @@ const Resume = () => {
                 <div className='flex justify-between items-center mb-4'>
                     <h2 className='text-2xl font-semibold text-gray-800'>My Resume</h2>
                     <a 
-                        href="/resume/Resume.pdf" 
+                        href="/myPortfolio/resume/Resume.pdf" 
                         download 
                         className='flex items-center gap-2 bg-[#001b5e] text-white px-4 py-2 rounded-md hover:bg-[#001b5e]/90 transition-colors'
                     >
@@ -20,7 +20,7 @@ const Resume = () => {
                 </div>
                 <div className='w-full h-[800px]'>
                     <iframe
-                        src="/resume/Resume.pdf"
+                        src="/myPortfolio/resume/Resume.pdf"
                         className='w-full h-full'
                         title="Resume Preview"
                     />
